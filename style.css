@@ -8,3 +8,23 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {
+	color: black;
+	font-weight: 600;
+}
+h4 {
+	color: black;
+	font-family: 'calibri';
+}
+#summary {
+	color:black;
+}
+img {
+	width:200px;
+}
+h5,h4,p,h1,h2,h3,h1,ul,il {
+	font-family: 'calibri';
+}
+body{
+	background-image:none;
+}

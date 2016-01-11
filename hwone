@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Winnie Miller, Student</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<body>
+  <div id="wrapper">
+    <h1>Winnie Miller</h1>
+    <p>
+      <img src="image.jpg">
+    </p>
+    <h2>MBA Candidate, Kellogg School of Management, Class of 2016<h2>
+    <h3>Evanston, IL</h3>
+    <div>
+      <h4>Connect With Me</h4>
+      <ul>
+        <li><a href="mailto:wmiller2016@kellogg.northwestern.edu">Email</a></li>
+        <li><a href="https://www.facebook.com/WinifredKMM">Facebook</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4 id="summary">Summary</h4>
+     </div>
+    <div>
+      <p>
+        Winnie was born just outside of Washington DC in Virginia. She attendend the University of Wisconsin-Madison and graduated from the Wisconsin School of Business. After graduation, Winnie launched her career at Target Corporation in Minneapolis, MN. Winnie is currently finishing her final year at the Kellogg School of Management and will graduate in June 2016 with a Masters in Business Administration. Winnie plans to move to San Francisco post Kellogg and is excited to begin a career with Apple.
+      </p>
+    </div>
+    <div>
+      <h4>Experience</h4>
+      <ul>
+        <li>Buyer, Target Corporation</li>
+        <li>MBA Intern, Apple Inc.</li>
+      </p>
+    </div>
+    <div>
+      <h4>Skills</h4>
+      <ul>
+        <li>Retail strategy</li>
+        <li>P&L management</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Hobbies</h4>
+      <ul>
+        <li>Running, Soccer, Travel, Baking</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

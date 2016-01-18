@@ -12,14 +12,16 @@ body {
 }
 
 h1 {
-	color: black;
+	color: pink;
 	font-weight: 600;
+	font-size: 80px;
 	text-align: center;
+	font-family:'Miniver', cursive;
 }
 h4 {
 	color: black;
-	font-family: 'calibri';
-	font-weight: 700;
+	font-family: 'Miniver', cursive;
+	font-weight: 10;
 	font-size: 30px;
 	text-align: center;
 }
@@ -29,18 +31,24 @@ title {
 	text-shadow: 20px;
 }
 img {
-	width:250px;
+	width:50px;
 }
 p,h2,h3,ul,il{
 	font-family: 'calibri';
 	color: black;
 	font-weight: 500
 }
+h5, h6{
+	font-family: 'Miniver', cursive;	
+}
 #mississippimudd {
 	color: #6B1D39;
+	padding-top: 40px
 }
 .subheader {
 	color: #6B1D39;
 	font-style: italic;
 	font-size: 20px;
 }
+.navbar-inverse .navbar-brand {
+  padding-top: 0px;

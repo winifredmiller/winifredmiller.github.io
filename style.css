@@ -22,7 +22,7 @@ h4 {
 	color: black;
 	font-family: 'Miniver', cursive;
 	font-weight: 10;
-	font-size: 30px;
+	font-size: 35px;
 	text-align: center;
 }
 title {
@@ -31,7 +31,7 @@ title {
 	text-shadow: 20px;
 }
 img {
-	width:50px;
+	width:100px;
 }
 p,h2,h3,ul,il{
 	font-family: 'calibri';

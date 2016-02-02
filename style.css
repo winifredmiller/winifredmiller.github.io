@@ -4,6 +4,7 @@ body {
   background-image: url(sweettreat.jpg);
   background-repeat: no-repeat;
   background-size: 1500px
+
 }
 #wrapper {
   width: 960px;
@@ -52,10 +53,35 @@ h5, h6{
 }
 .navbar-inverse .navbar-brand {
   padding-top: 0px;
+  
 }
+#pinterestfont {
+	font-family: 'calibri', arial, sans-serif;
+}
+
 .table-striped>tbody>tr:nth-of-type(odd){
 	background-color: #F1C2BF;
 }
 .table-striped>tbody>tr:nth-of-type(even){
 	background-color: #F1C2BF;
 }
+#valentinespage{
+  font-family: 'calibri', arial, sans-serif;
+  font-weight: 300;
+  background-image: url(lavacakes.jpg);
+  background-repeat: no-repeat;
+  background-size: 600px;
+  background-position: 90%,90%;
+  }
+  #lavacakes{
+  	text-align: center;
+  	width:200px;
+
+  }
+  #recipepagesubheader{
+  	color: red;
+  }
+  #recipepageheader{
+  	padding-top: 40px;
+  	color: red;
+  }

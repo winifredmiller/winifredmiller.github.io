@@ -52,3 +52,10 @@ h5, h6{
 }
 .navbar-inverse .navbar-brand {
   padding-top: 0px;
+}
+.table-striped>tbody>tr:nth-of-type(odd){
+	background-color: #F1C2BF;
+}
+.table-striped>tbody>tr:nth-of-type(even){
+	background-color: #F1C2BF;
+}

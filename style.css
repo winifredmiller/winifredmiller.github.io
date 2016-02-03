@@ -106,9 +106,10 @@ font-family: 'calibri', arial, sans-serif;
   background-size: 1500px
 }
 
-.thumbnail > img { 
-  height: 100px;
+.thumbnail > img {
+  height: 200px;
 }
+
 #javatexth1{
 	color: pink;
 	font-weight: 600;

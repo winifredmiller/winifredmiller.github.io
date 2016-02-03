@@ -97,3 +97,36 @@ h5, h6{
 	color:black;
 	padding-top: 40px;
 }
+#javapage{
+
+font-family: 'calibri', arial, sans-serif;
+  font-weight: 300;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: 1500px
+}
+
+.thumbnail > img { 
+  height: 100px;
+}
+#javatexth1{
+	color: pink;
+	font-weight: 600;
+	font-size: 60px;
+	text-align: center;
+	font-family:'Miniver', cursive;
+}
+#subheaderjava{
+	font-family: 'calibri', arial, sans-serif;
+	font-weight: 300;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 20px;
+}
+#javatexth2{
+	color: black;
+	font-weight: 600;
+	font-size: 30px;
+	text-align: center;
+	font-family:'Miniver', cursive;
+}
